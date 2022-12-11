@@ -1,1 +1,2 @@
-# big-data-stock-price-prediction
+# CIS 4130 Big Data Technologies:
+This course will give students an overview of the big data technologies that will help efficiently store, extract, and process very large datasets. Students will learn key data analysis and management techniques, including critical concepts such as Distributed File Systems (storage concepts) and MapReduce/Spark (processing concepts) that power modern big data technologies. In particular, the course will leverage cloud-based services to manage storage and efficiently process data. Further, the course will also show how big data technologies can also be used to effectively analyze large volumes of data for practical applications.
