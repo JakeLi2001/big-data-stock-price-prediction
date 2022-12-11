@@ -6,3 +6,5 @@ This course will give students an overview of the big data technologies that wil
 2. Exploratory Data Analysis: Produced descriptive statistics using EC2.
 3. Coding and Modeling: Built a completed machine learning pipeline using AWS EMR.
 4. Visualizing Results: Visualize prediction results using seaborn in AWS EMR.
+
+See complete report [here](https://github.com/JakeLi2001/big-data-stock-price-prediction/blob/main/CIS%204130%20Proejct%20Documentation.pdf).
