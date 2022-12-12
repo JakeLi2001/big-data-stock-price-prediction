@@ -7,6 +7,6 @@ This course will give students an overview of the big data technologies that wil
 3. Coding and Modeling: Built a completed machine learning pipeline using random forest in AWS EMR.
 4. Visualizing Results: Visualize prediction results using seaborn in AWS EMR.
 
-See complete report [here](https://github.com/JakeLi2001/big-data-stock-price-prediction/blob/main/CIS%204130%20Proejct%20Documentation.pdf).
+See complete report [here](https://github.com/JakeLi2001/big-data-stock-price-prediction/blob/main/Proejct%20Documentation.pdf).
 
 Dataset: [Stock Market Data - Nifty 100 Stocks (1 min) data](https://www.kaggle.com/datasets/debashis74017/stock-market-data-nifty-50-stocks-1-min-data?select=ADANIPORTS_with_indicators_.csv) (Version 2)
