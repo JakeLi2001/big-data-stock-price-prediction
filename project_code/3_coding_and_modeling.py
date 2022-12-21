@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from pyspark.sql.types import *
 from pyspark.ml import Pipeline
-from pyspark.ml.feature import MinMaxScaler, StringIndexer, OneHotEncoder, VectorAssembler
+from pyspark.ml.feature import StringIndexer, OneHotEncoder, VectorAssembler
 from pyspark.ml.regression import RandomForestRegressor
 from pyspark.ml.evaluation import RegressionEvaluator
 from pyspark.ml.tuning import CrossValidator, ParamGridBuilder
