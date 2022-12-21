@@ -71,3 +71,5 @@ I normalized the features but saw no improve to R^2, Root Mean Square Error (RMS
 ## Feedback
 
 If you have any feedback, please reach out to me at LiJake2001@gmail.com.
+
+## See my full report [here](https://github.com/JakeLi2001/big-data-stock-price-prediction/blob/main/Proejct%20Documentation.pdf)
