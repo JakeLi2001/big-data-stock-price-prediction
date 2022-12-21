@@ -27,7 +27,7 @@ Attributes:
 4. Visualizing Results: Visualized prediction results in AWS EMR.
 ## Tech Stack
 
-**Language:** PySpark
+**Language:** PySpark, Python
 
 **Libraries:** boto3, zipfile, io, s3fs, pandas, numpy, pyspark.sql.types, Pipeline, StringIndexer, OneHotEncoder, VectorAssembler, RandomForestRegressor, RegressionEvaluator, chain, matplotlib, seaborn
 
