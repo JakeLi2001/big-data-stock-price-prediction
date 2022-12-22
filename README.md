@@ -7,9 +7,9 @@
 
 ## Data Source: [Stock Market Data - Nifty 100 Stocks (1 min) data](https://www.kaggle.com/datasets/debashis74017/stock-market-data-nifty-50-stocks-1-min-data?select=ADANIPORTS_with_indicators_.csv)
 
-This dataset is from Kaggle and I am using version 2 of the dataset.
+This dataset is from Kaggle and I am using version 2 of the dataset which is about 33GB.
 
-Version 2 contains 49/50 individual stocks from the Nifty 50 Index, the Nifty 50 Index, and the Nifty Bank Index. I am only going to use the 49 individual stocks for this project.
+Version 2 contains 49/50 individual stocks from the Nifty 50 Index, the Nifty 50 Index, and the Nifty Bank Index. I am only going to use the 49 individual stocks for this project. 
 
 Attributes:
 - Date: Date of observation
