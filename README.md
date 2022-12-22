@@ -5,7 +5,7 @@
 
 **Motivation**: I wanted to see which technical indicatosr help predict stock closing price.
 
-## Data Source: [Stock Market Data - Nifty 100 Stocks (1 min) data](https://www.kaggle.com/datasets/debashis74017/stock-market-data-nifty-50-stocks-1-min-data?select=ADANIPORTS_with_indicators_.csv)
+## :mag_right: Data Source: [Stock Market Data - Nifty 100 Stocks (1 min) data](https://www.kaggle.com/datasets/debashis74017/stock-market-data-nifty-50-stocks-1-min-data?select=ADANIPORTS_with_indicators_.csv)
 
 This dataset is from Kaggle and I am using version 2 of the dataset which is about 33GB.
 
@@ -19,14 +19,14 @@ Attributes:
 - Close: Close price of the index on a particular day
 - And 55 technical incators...
 
-## Summary
+## :open_book: Summary
 
 1. Data Acquisition: Used Amazon EC2 to download the 33GB Kaggle dataset directly into Amazon S3.
 2. Exploratory Data Analysis: Produced descriptive statistics using Amazon EC2.
 3. Coding and Modeling: Built a completed machine learning pipeline using random forest regressor in AWS EMR.
 4. Visualizing Results: Visualized prediction results in AWS EMR.
 
-## Results
+## :dart: Results
 
 Model Results/Evaluation:
 
@@ -52,7 +52,7 @@ The top 10 features by feature importances descending are:
 9. ht_trendline: Hilbert Transform - Instantaneous Trendline
 10. ema20: Exponential Moving Average for 20 close price
 
-## Tech Stack
+## :hammer_and_wrench: Tech Stack
 
 **Language:** PySpark, Python
 
