@@ -25,13 +25,7 @@ Attributes:
 2. Exploratory Data Analysis: Produced descriptive statistics using Amazon EC2.
 3. Coding and Modeling: Built a completed machine learning pipeline using random forest regressor in AWS EMR.
 4. Visualizing Results: Visualized prediction results in AWS EMR.
-## Tech Stack
 
-**Language:** PySpark, Python
-
-**Libraries:** boto3, zipfile, io, s3fs, pandas, numpy, pyspark.sql.types, Pipeline, StringIndexer, OneHotEncoder, VectorAssembler, RandomForestRegressor, RegressionEvaluator, chain, matplotlib, seaborn
-
-**Tools:** Amazon Web Services (AWS) - EC2, S3, EMR
 ## Results
 
 Model Results/Evaluation:
@@ -57,6 +51,14 @@ The top 10 features by feature importances descending are:
 8. sma5: Simple moving average for 5 close price
 9. ht_trendline: Hilbert Transform - Instantaneous Trendline
 10. ema20: Exponential Moving Average for 20 close price
+
+## Tech Stack
+
+**Language:** PySpark, Python
+
+**Libraries:** boto3, zipfile, io, s3fs, pandas, numpy, pyspark.sql.types, Pipeline, StringIndexer, OneHotEncoder, VectorAssembler, RandomForestRegressor, RegressionEvaluator, chain, matplotlib, seaborn
+
+**Tools:** Amazon Web Services (AWS) - EC2, S3, EMR
 
 ## FAQ
 
