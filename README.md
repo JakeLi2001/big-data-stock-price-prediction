@@ -1,4 +1,3 @@
-
 # Big Data Stock Price Prediction
 
 **Goal**: To predict stock closing price per minute using technical indicators.
