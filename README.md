@@ -10,7 +10,7 @@ This dataset is from Kaggle and I am using version 2 of the dataset which is abo
 
 Version 2 contains 49/50 individual stocks from the Nifty 50 Index, the Nifty 50 Index, and the Nifty Bank Index. I am only going to use the 49 individual stocks for this project. 
 
-Attributes:
+Features:
 - Date: Date of observation
 - Open: Open price of the index on a particular day
 - High: High price of the index on a particular day
