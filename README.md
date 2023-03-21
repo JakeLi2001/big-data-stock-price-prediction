@@ -29,15 +29,9 @@ Features:
 
 Model Results/Evaluation:
 
-- R^2: 0.93
-- Root Mean Square Error (RMSE): 1183
-- Mean Absolute Error (MAE): 340
-
-R^2 is the proportion of variance for a dependent variable that's explained by an independent variables (features).
-
-Root Mean Square Error (RMSE) is the standard deviation of the residuals (prediction errors).
-
-Mean Absolute Error (MAE) is the mean of absolute errors.
+- R^2: 0.93 (R^2 is the proportion of variance for a dependent variable that's explained by the independent variables / features)
+- Root Mean Square Error (RMSE): 1183 (Root Mean Square Error (RMSE) is the standard deviation of the residuals / prediction errors)
+- Mean Absolute Error (MAE): 340 (Mean Absolute Error (MAE) is the mean of absolute errors)
 
 The top 10 features by feature importances descending are:
 1. open: Open price of the index on a particular day
@@ -50,6 +44,8 @@ The top 10 features by feature importances descending are:
 8. sma5: Simple moving average for 5 close price
 9. ht_trendline: Hilbert Transform - Instantaneous Trendline
 10. ema20: Exponential Moving Average for 20 close price
+
+It's interesting to see what features (technical indicator) best predicts the stock price but since the market is an example of random walk, the residuals are high.
 
 ## :hammer_and_wrench: Tech Stack
 
