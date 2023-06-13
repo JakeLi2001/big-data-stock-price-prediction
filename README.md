@@ -20,7 +20,7 @@ Features:
 
 ## :open_book: Summary
 
-1. Data Acquisition: Used AWS EC2 to download the 33GB Kaggle dataset directly into Amazon S3.
+1. Data Acquisition: Used AWS EC2 to download the 33GB Kaggle dataset directly into AWS S3.
 2. Exploratory Data Analysis: Produced descriptive statistics using Amazon EC2.
 3. Coding and Modeling: Built a completed machine learning pipeline using random forest regressor in AWS EMR.
 4. Visualizing Results: Visualized prediction results in AWS EMR.
@@ -29,12 +29,12 @@ Features:
 
 Model Results/Evaluation:
 
-- R^2: 0.93 - R^2 is the proportion of variance for a dependent variable that's explained by the independent variables / features
-- Root Mean Square Error (RMSE): 1183 - Root Mean Square Error (RMSE) is the standard deviation of the residuals / prediction errors
+- R^2: 0.93 - R^2 is the proportion of variance for a dependent variable that's explained by the independent variables/features
+- Root Mean Square Error (RMSE): 1183 - Root Mean Square Error (RMSE) is the standard deviation of the residuals/prediction errors
 - Mean Absolute Error (MAE): 340 - Mean Absolute Error (MAE) is the mean of absolute errors
 
-The top 10 features by feature importances descending are:
-1. open: Open price of the index on a particular day
+The top 10 features by feature importance descending are:
+1. open: Open the price of the index on a particular day
 2. typprice: Typical price
 3. high: High price of the index on a particular day
 4. trima5: Triangular Moving Average of 5 close price
