@@ -1,8 +1,8 @@
 # Big Data Stock Price Prediction
 
-**Goal**: To predict stock closing price per minute using technical indicators.
+**Goal**: To predict stock closing price per minute using technical indicators and basic stock information such as open, low, high, etc.
 
-**Motivation**: I wanted to see which technical indicator helps predict stock closing price.
+**Motivation**: I wanted to see which technical indicator helps predict stock closing prices.
 
 ## :mag_right: Data Source: [Stock Market Data - Nifty 100 Stocks (1 min) data](https://www.kaggle.com/datasets/debashis74017/stock-market-data-nifty-50-stocks-1-min-data?select=ADANIPORTS_with_indicators_.csv)
 
