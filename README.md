@@ -16,11 +16,11 @@ Features:
 - High: High price of the index on a particular day
 - Low: Low price of the index on a particular day
 - Close: Close price of the index on a particular day
-- And 55 technical incators...
+- And 55 technical indicators...
 
 ## :open_book: Summary
 
-1. Data Acquisition: Used Amazon EC2 to download the 33GB Kaggle dataset directly into Amazon S3.
+1. Data Acquisition: Used AWS EC2 to download the 33GB Kaggle dataset directly into Amazon S3.
 2. Exploratory Data Analysis: Produced descriptive statistics using Amazon EC2.
 3. Coding and Modeling: Built a completed machine learning pipeline using random forest regressor in AWS EMR.
 4. Visualizing Results: Visualized prediction results in AWS EMR.
