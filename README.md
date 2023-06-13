@@ -65,9 +65,4 @@ I didn't remove outliers because random forest regressor is not sensitive to out
 
 I normalized the features but saw no improve to R^2, Root Mean Square Error (RMSE), and Mean Absolute Error (MAE). Thus, I removed the code for normalization.
 
-
-## Feedback
-
-If you have any feedback, please reach out to me at LiJake2001@gmail.com.
-
 ## See my full report [here](https://github.com/JakeLi2001/big-data-stock-price-prediction/blob/main/Proejct%20Documentation.pdf)
